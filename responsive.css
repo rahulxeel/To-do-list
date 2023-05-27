@@ -1,0 +1,480 @@
+
+@media only screen and (max-width: 600px) {
+
+
+#main{
+  background-color: #F2AA4CFF;
+  margin-top : 80px;
+  margin-left : 70px;
+  width: 900px;
+  height: 2080px;
+  border: 1px solid black;
+
+}
+
+
+
+#a1{
+
+ margin-top : 1px;
+ font-size:60px;
+ color: white;
+
+}
+
+
+
+
+
+/*####################################     Check       ####################################################*/
+
+#tick{
+ color: BLUE;
+ font-size: 70px;
+}
+
+
+
+#check1{
+
+margin-top : -36px;
+margin-left : 940px;
+border-radius: 50px;
+font-size: 20px;
+color: GREEN;
+
+
+}
+
+
+
+/*####################################     PLUS       ####################################################*/
+
+#plus{
+
+
+color: GREEN;
+
+
+}
+
+
+#plus1{
+
+position          : fixed;
+left              : 45%;
+top               :  80%;
+background-color  : #4CAF50;
+padding           : 10px 17px;
+font-size         : 40px;
+border-radius     : 50px;
+box-shadow        : 3px 1px white;
+
+
+}
+
+#plus2{
+position: fixed;
+left : 45%;
+top               :  80%;
+background-color: #4CAF50;
+padding: 10px 17px;
+font-size: 40px;
+border-radius: 50px;
+box-shadow: 3px 1px white;
+
+}
+#plus3{
+position: fixed;
+left : 45%;
+top               :  80%;
+background-color: #4CAF50;
+padding: 10px 17px;
+font-size: 40px;
+border-radius: 50px;
+box-shadow: 3px 1px white;
+
+}
+
+#plus4{
+
+position: fixed;
+left : 45%;
+top               :  80%;
+background-color: #4CAF50;
+padding: 10px 17px;
+font-size: 40px;
+border-radius: 50px;
+box-shadow: 3px 1px white;
+
+}
+
+#plus5{
+
+position: fixed;
+left : 45%;
+top               :  80%;
+background-color  : #4CAF50;
+padding: 10px 17px;
+font-size: 40px;
+border-radius: 50px;
+box-shadow: 3px 1px white;
+
+}
+
+#plus6{
+position: fixed;
+left : 45%;
+top               :  80%;
+background-color  : #4CAF50;
+padding: 10px 17px;
+font-size: 40px;
+border-radius: 50px;
+box-shadow: 3px 1px white;
+
+}
+
+#plus7{
+position: fixed;
+left : 45%;
+top               :  80%;
+background-color  : #4CAF50;
+padding: 10px 17px;
+font-size: 40px;
+border-radius: 50px;
+box-shadow: 3px 1px white;
+
+}
+
+#plus8{
+
+position: fixed;
+left : 45%;
+top               : 80%;
+background-color  : #4CAF50;
+padding: 10px 17px;
+font-size: 40px;
+border-radius: 50px;
+box-shadow: 3px 1px white;
+}
+
+/*###########################################################################################################*/
+
+#pop{
+
+  background-color: #E69A8DFF;
+  width: 1200px;
+  height:80px;
+  text-align: center;
+
+}
+
+
+/*####################################     I N P U T       ####################################################*/
+
+
+
+#t1{
+
+  position : fixed;
+  left : 10%;
+  top : 140px;
+  font-size: 20px;
+  width: 1000px;
+  height:40px;
+  border: 1px solid black;
+
+
+}
+
+#t2{
+
+  position : fixed;
+  left : 10%;
+  top : 190px;
+  font-size: 20px;
+  width: 1000px;
+  height:40px;
+  border: 1px solid black;
+
+
+}
+
+#t3{
+  
+  
+  position : fixed;
+  left : 10%;
+  top : 240px;
+  font-size: 20px;
+  width: 1000px;
+  height:40px;
+  border: 1px solid black;
+
+
+}
+
+
+#t4{
+
+  
+  position : fixed;
+  left : 10%;
+  top : 290px;
+  font-size: 20px;
+  width: 1000px;
+  height:40px;
+  border: 1px solid black;
+
+
+}
+
+
+#t5{
+
+  
+  position : fixed;
+  left : 10%;
+  top : 340px;
+  font-size: 20px;
+  width: 1000px;
+  height:40px;
+  border: 1px solid black;
+
+
+}
+
+
+#t6{
+
+  
+  position : fixed;
+  left : 10%;
+  top : 390px;
+  font-size: 20px;
+  width: 1000px;
+  height:40px;
+  border: 1px solid black;
+
+
+}
+
+
+
+#t7{
+
+  
+  position : fixed;
+  left : 10%;
+  top : 440px;
+  font-size: 20px;
+  width: 1000px;
+  height:40px;
+  border: 1px solid black;
+
+
+}
+
+
+
+#t8{
+
+  
+  position : fixed;
+  left : 10%;
+  top : 490px;
+  font-size: 20px;
+  width: 1000px;
+  height:40px;
+  border: 1px solid black;
+
+
+}
+
+
+
+
+/*####################################     S T R I C T       ####################################################*/
+
+
+#h1{
+position : fixed;
+top : 120px;
+left : 8%;
+font-size: 40px;
+color: red;
+
+}
+
+
+#h2{
+position : fixed;
+top : 170px;
+left : 8%;
+font-size: 40px;
+color: red;
+
+}
+
+#h3{
+position : fixed;
+top : 220px;
+left : 8%;
+font-size: 40px;
+color: red;
+
+}
+
+
+#h4{
+position : fixed;
+top : 270px;
+left : 8%;
+font-size: 40px;
+color: red;
+
+}
+
+
+#h5{
+position : fixed;
+top : 320px;
+left : 8%;
+font-size: 40px;
+color: red;
+
+}
+
+#h6{
+position : fixed;
+top : 370px;
+left : 8%;
+font-size: 40px;
+color: red;
+
+}
+
+
+#h7{
+position : fixed;
+top : 420px;
+left : 8%;
+font-size: 40px;
+color: red;
+
+}
+
+
+#h8{
+position : fixed;
+top : 470px;
+left : 8%;
+font-size: 40px;
+color: red;
+
+}
+/*######################################## C R O S S #####################################################*/
+
+#cross1{
+
+position : fixed;
+left : 85%;
+top : 148px;
+font-size: 20px;
+color: red;
+border-radius: 50px;
+
+}
+
+
+#cross2{
+
+position : fixed;
+left : 85%;
+top : 198px;
+font-size: 20px;
+color: red;
+border-radius: 50px;
+
+}
+
+
+
+#cross3{
+
+position : fixed;
+left : 85%;
+top : 248px;
+font-size: 20px;
+color: red;
+border-radius: 50px;
+
+}
+
+
+
+#cross4{
+
+position : fixed;
+left : 85%;
+top : 298px;
+font-size: 20px;
+color: red;
+border-radius: 50px;
+
+}
+
+
+#cross5{
+
+position : fixed;
+left : 85%;
+top : 348px;
+font-size: 20px;
+color: red;
+border-radius: 50px;
+
+}
+
+
+#cross6{
+
+position : fixed;
+left : 85%;
+top : 398px;
+font-size: 20px;
+color: red;
+border-radius: 50px;
+
+}
+
+
+#cross7{
+
+position : fixed;
+left : 85%;
+top : 448px;
+font-size: 20px;
+color: red;
+border-radius: 50px;
+
+}
+
+
+
+#cross8{
+
+position : fixed;
+left : 85%;
+top : 498px;
+font-size: 20px;
+color: red;
+border-radius: 50px;
+
+}
+
+
+/*###########################################################################################################*/
+
+
+}
